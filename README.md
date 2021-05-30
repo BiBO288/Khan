@@ -8,4 +8,4 @@
 ° cd Khqn
 ° pip2 install mechanize && pip2 install requests
 ° pip3 install mechanize && pip3 install requests
-° python2 
+° python2 Hn.py
